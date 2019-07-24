@@ -1,0 +1,28 @@
+_repo: Ferns-of-Hawaii-National-Park_59913
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hubbard, Douglass H.
+    alias: Hubbard, Douglass Hopwood
+    birthdate: 1918
+    deathdate: 2011
+    gutenberg_agent_id: '50689'
+    url: http://www.gutenberg.org/2009/agents/50689
+description: ''
+gutenberg_issued: '2019-07-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59913'
+  lccn: '78318045'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Hawaii Nature Notes, Vol. 5, No. 1, June 1952
+subjects:
+- !lcsh 'Hawaii Volcanoes National Park (Hawaii)'
+- !lcc 'QK'
+- !lcsh 'Ferns -- Hawaii -- Hawaii Volcanoes National Park -- Identification'
+- GITenberg
+title: Ferns of Hawaii National Park
+url: http://www.gutenberg.org/ebooks/59913
