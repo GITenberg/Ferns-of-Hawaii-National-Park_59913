@@ -1,5 +1,8 @@
 _repo: Ferns-of-Hawaii-National-Park_59913
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59913-h/images/cover.jpg
 creator:
   author:
     agent_name: Hubbard, Douglass H.
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '50689'
     url: http://www.gutenberg.org/2009/agents/50689
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59913#Ferns-of-Hawaii-National-Park
 gutenberg_issued: '2019-07-13'
 gutenberg_type: Text
 identifiers:
